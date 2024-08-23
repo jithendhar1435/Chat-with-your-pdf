@@ -123,6 +123,5 @@ For any questions or feedback, please contact
 
 ---
 
-This README file provides a comprehensive guide to the project, covering everything from installation and usage to the approach and potential improvements. You can customize the content as needed based on your project's specifics.
-
+This README file provides a comprehensive guide to the project, covering everything from installation and usage to the approach and potential improvements.
 
