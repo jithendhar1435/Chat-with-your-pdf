@@ -117,7 +117,9 @@ The application highlights relevant portions of the PDF text by matching phrases
 
  Contact
 
-For any questions or feedback, please contact [Jithendhar Reddy](jithendharreddy304@gmail.com).
+For any questions or feedback, please contact 
+[Jithendhar Reddy]
+(jithendharreddy304@gmail.com).
 
 ---
 
