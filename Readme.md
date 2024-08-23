@@ -5,6 +5,8 @@
 
 "Chat with Your PDF" is a proof-of-concept web application that allows users to interact with the content of PDF documents using a language model (LLM) integrated with a user-friendly Streamlit interface. The application supports multiple PDF documents, extracts and processes their text, and generates contextually relevant responses to user queries. Additionally, the application highlights relevant portions of the PDF text that relate to the LLM's response.
 
+
+ Live :https://jithendhar1435-chat-with-your-pdf-main-branch-8x9neu.streamlit.app/
  Features
 
 - Multiple PDF Support: Upload multiple PDF files in a single session. The application extracts and combines text from all PDFs for comprehensive querying.
